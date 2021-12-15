@@ -1,0 +1,185 @@
+---
+title: "AN/BI 588: End-of-Semester Self Evaluation"
+author: "Abby Robinson"
+date: "December 13th, 2021"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+
+***
+
+### [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
+### [Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
+### [Modules](https://fuzzyatelin.github.io/bioanth-stats/modules.html)
+### [Assignments](https://fuzzyatelin.github.io/bioanth-stats/assignments.html)
+### [Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
+### [Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
+### [Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
+
+***
+
+<center>
+
+<font size="+2"><b>When you're waiting for your markdown file to knit...</b></font></center><br>
+
+<center><p><img src="https://media.giphy.com/media/wenKvTpzlSLyUJjbi1/giphy.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+Above all, the main skill I learned from this course is how to deal with coding problems in R. I've used R before and I had  experience copying code and changing variable names. But this course helped me get more comfortable google my errors and problem-solving in R. By working with github this semester, I have also gained a better sense of what it looks like to build a statistical analysis and create figures for publication. 
+<br><br>
+Whether I agree with your assessment or not, I will schedule a time for us to discuss your self-assessment. In this discussion, we will come to an agreement regarding your final grade reflecting the criteria in the [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html) and as outlined below. 
+
+</center>
+***
+
+## Instructions
+
+***
+
+Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (in the `fuzzyatelin.github.io/bioanth-stats/` folder) and answer the appropriate questions in the spaces provided. Once you've knitted the final file, please *email* the **html** version of that file to me with the name `[LastF]_F19_SelfEvaluation.html` (with `LastF` meaning your last name followed by your first initial, i.e., mine would be called `SchmittC_F19_SelfEvaluation.html`). I must receive this file by **Midnight of the Final Exam Date**.
+
+***
+
+### Overall Impression
+
+***
+
+In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+
+***
+
+### What were you asked to do?
+
+***
+
+Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
+
+### List of task this semester:
+
+* [Homework 1 Original Homework Code](https://github.com/butterfliesrcool/AN588-Week-2-aer13/blob/main/aer13_OriginalHomeworkCode_01.html)
+
+* [Homework 1 Peer Commentary 1](https://github.com/vfrench-397/AN588-Week-2-vfrench3/blob/main/vfrench3_PeerCommentary_aer13.Rmd) ###Link to rmd file in peer commentary repo 
+
+* [Homework 1 Peer Commentary 2](https://github.com/butterfliesrcool/AN588-Week-2-martah/blob/main/martah_PeerCommentary_aer13_01.Rmd)
+
+* [Homework 1 Final Homework Code](https://github.com/butterfliesrcool/AN588-Week-2-aer13/blob/main/aer13_FinalHomeworkCode_01.html)
+
+* [Homework 2 Original Homework Code](https://github.com/butterfliesrcool/AN588-Week-3-aer13/blob/main/aer13_OriginalHomeworkCode.html) 
+###NOTE: This file accidentally got messed up during the peer review process. I ended up having to re-push the original homework code, which is why it might look like this file was uploaded late 
+
+* [Homework 2 Peer Commentary 1](https://github.com/butterfliesrcool/AN588-Week-3-vfrench3/blob/main/vfrench_3_PeerCommentary_aer13_02.html)
+
+* [Homework 2 Peer Commentary 2](https://github.com/butterfliesrcool/AN588-Week-3-nkelley/blob/main/nkelley_PeerCommentary_aer13_02.html)
+
+* [Homework 2 Final Homework Code](https://github.com/butterfliesrcool/AN588-Week-3-aer13/blob/main/aer13_FinalHomeworkCode_02.html) 
+
+* [Homework 3 Original Homework Code](https://github.com/butterfliesrcool/AN588_Zombies_aer13/blob/main/aer13_OriginalHomeworkCode_03.html) 
+
+* [Homework 3 Peer Commentary 1](https://github.com/butterfliesrcool/AN588_Zombies_nkelley/blob/main/nkelley_PeerCommentary_aer13_03.Rmd)
+
+* [Homework 3 Peer Commentary 2](https://github.com/butterfliesrcool/AN588_Zombies_mrubiog2000/blob/main/mrubiog2000_PeerCommentary_03.Rmd)
+
+* [Homework 3 Final Homework Code](https://github.com/butterfliesrcool/AN588_Zombies_aer13/blob/main/aer13_FinalHomeworkCode_03.html)
+
+* [Homework 4 Original Homework Code](https://github.com/butterfliesrcool/AN588_Malfunction_aer13/blob/main/aer13_OriginalHomeworkCode_04.Rmd) 
+
+* [Homework 4 Peer Commentary 1](https://github.com/butterfliesrcool/Homework-04/blob/main/aer13_PeerCommentary_warrenkb_04.Rmd)
+NOTE: Only one person in my peer group this week 
+
+* [Homework 4 Final Homework Code](https://github.com/butterfliesrcool/AN588_Malfunction_aer13/blob/main/aer13_FinalHomeworkCode_04.html)
+* [Homework 4 Regression Question](https://github.com/butterfliesrcool/AN588_Malfunction_aer13/blob/main/Malfunction_Regression_Question.Rmd)
+
+* [Homework 5 Original Homework Code](https://github.com/butterfliesrcool/AN588_Boots_aer13/blob/main/aer13_OriginalHomeworkCode_05.html) 
+
+* [Homework 5 Peer Commentary 1](https://github.com/butterfliesrcool/AN588_Boots_nirmitin/blob/main/nirmitin_PeerCommentary_aer13_05.Rmd)
+
+* [Homework 5 Peer Commentary 2](https://github.com/ceceg27/AN588_Boots_ceceg27/blob/main/ceceg27_PeerCommentary_aer13_05.Rmd)
+
+* [Homework 5 Final Homework Code](https://github.com/butterfliesrcool/AN588_Boots_aer13/blob/main/aer13_FinalHomeworkCode_05.html) 
+
+* [Replication Assignment](https://github.com/butterfliesrcool/BI588_Replication_Assignment/blob/main/final.module.document.html)
+* [Group Presentation and R Vignette](https://github.com/sinnabunbun/Super-Fly-Group-Module/blob/main/Final-Module.html)
+
+NOTE: Most of my peer commentaries are linked to rmd files above, I'm sorry! I didn't realize they needed to be pushed as html files as well. I tried to go back and push them when putting this evaluation together, but I kept getting errors saying that pushing would overwrite other content in the repo, and I didn't want to risk overwriting someone else's work. 
+***
+
+### What did you accomplish?
+
+***
+
+I completed all of the above assignments and peer commentaries (links are provided above). I have included html links to all of the final homework code submissions, but not all of the original homework codes and peer commentaries.  I submitted the Homework 4 Original Homework Code one day late, but I emailed you about my issues and you said it was ok.<br><br><br><br><br><br>
+
+***
+
+### How well did you accomplish them?
+
+***
+
+I think my ability to problem-solve with R improved a lot over the course of the semester. For that reason, I think my best work is reflected in the last few assignments--the malfunction and bootstrapping homework assignments 
+
+* [Homework 4 Final Homework Code](https://github.com/butterfliesrcool/AN588_Malfunction_aer13/blob/main/aer13_FinalHomeworkCode_04.html)
+* [Homework 4 Regression Question](https://github.com/butterfliesrcool/AN588_Malfunction_aer13/blob/main/Malfunction_Regression_Question.Rmd)
+* [Homework 5 Final Homework Code](https://github.com/butterfliesrcool/AN588_Boots_aer13/blob/main/aer13_FinalHomeworkCode_05.html) 
+
+I think the earlier modules and several of my original homework code submissions represent the work I am less proud of. I often encountered problems with my code and didn't know how to find a solution; I didn't understand the language that would allow me to google coding problems more effectively.  Over this semester, I became more comfortable using websites like stack exchange and stack overflow and I developed a more intuitive understanding of the R language. I think that coding is also something I do best with others. Much of my work improved after I was able to talk through difficulties with classmates. Through peer commentary, classmates helped me approach coding problems from a perspective that I had not previously considered. 
+
+I am particularly proud of my replication assignment, and I think this project demonstrates my growth over the semester.  I ran into several issues with generating figures and running analyses and I definitely did not have the skill set to deal with these issues before this class. 
+
+* [Replication Assignment](https://github.com/butterfliesrcool/BI588_Replication_Assignment/blob/main/final.module.document.html) <br><br><br><br><br><br>
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+I've taken two stats courses before this class, so I felt fairly comfortable running analyses like GLMs, LMs, and model selection. This class helped me become more comfortable learning how to use different packages in R, search for coding solutions on sites like stack exchange and stack overflow, and become more comfortable using ggplot to create publishable figures. The later modules and large assignments have also set me up well to develop specific statistical knowledge related to my graduate research.<br><br><br><br><br><br><br><br>
+
+***
+
+### What did you learn from all this?
+
+***
+1. When I encounter an issue with my code, check R Documentation, stack exchange and stack overflow!
+2. I've become a lot more comfortable using github, which I think is a very practical skills for students who plan to publish research (github is also a great place to find coding help)
+3. I've become a lot more comfortable using ggplot to make figures that I could potentially publish. 
+4. It is difficult to code with a deadline. Sometimes it seems like something is working but then you realize its not giving you the output you need; R is a great tool for generating statistical analyses but it's never going to work exactly like you think it will. 
+ <br><br><br><br><br><br><br><br>
+
+***
+
+### What did you learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+From a place of practicality, I learned that teamwork with coding in github can be very challenging. During our group project, we encountered several issues with team members working on the same document at the same time and accidentally overwriting over people's work when pushing changes to github. We ended up meeting virtually to put everything together while having only one group member working on the document at a time. Through the peer commentary process, I learned that teamwork can be an invaluable part of statistical analyses. I often get stuck going down "rabbit holes" trying to get a specific line of code to work how I want it to. Teamwork can help me see other potential solutions and widen my perspective when I am stuck in one of these rabbit holes. 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+I think the peer commentary process and group project played an important role in my successes in this course. With the group project, I was able to meet with my group members in person and work through issues. I believe that the process of building the module progressed much faster because of this. With the homework assignments, I often submitted my original code when I reached a point where I got frustrated with the assignment and didn't know what to do next, and the peer commentary process allowed me to take a break from the assignment and revisit it in a few days, and the comments from my peers give new perspective that usually helped me tackle my issues more effectively. Part of me wishes that the peer commentary process was more similar to the group project process. With the pandemic still affecting how we learn and teach, it was difficult to meet in person with my peer commentary groups throughout the semester, but I think this would have made that process even more valuable for me. Not doing everything possible to get the most out of the peer commentary experience throughout the semester is probably what I view as my biggest difficulty in this course.
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+This class really changed my relationship with statistics and R. Before this course, R was very intimidating for me, and I didn't know how to tackle coding issues when I encountered them. While I still have so much more to learn, I now feel more competent using R and have been using R markdown and github throughout the semester to make progress on statistics for my own research. As mentioned above, the main skills that I will take away from this course are understanding how to use github to organize my code and using ggplot to create publishable figures.  The peer commentary process also really helped me understand how to organize and annotate my code so that others can reproduce it and so that I can come back to it in the future and understand my original thought process. This course was also my first experience working with R Markdown and I think understanding how to use this format has helped me create statistics that I can share with others more effectively. 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>[B]</center><br>
+
+***
+
